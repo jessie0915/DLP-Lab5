@@ -1,7 +1,7 @@
 # DLP-Lab5
 ## Conditional sequence-to-sequence VAE
 
-(The report please refer to DLP_LAB4_Report_0886035.pdf) 
+(The report please refer to DLP_LAB5_Report_0886035.pdf) 
 
 #### Lab Objective
 * In this lab, you need to implement a conditional seq2seq VAE for English tense conversion.
