@@ -1,6 +1,5 @@
 # DLP-Lab5
 ## Conditional sequence-to-sequence VAE
-
 (The report please refer to DLP_LAB5_Report_0886035.pdf) 
 
 #### Lab Objective
